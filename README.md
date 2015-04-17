@@ -1,7 +1,10 @@
 A simulator for deadlock detection and avoidance. It consists of Process, Resources and Kernel which handles all the process and resources.
 
 Deadlock is the main class. Input is taken from text file with specific format.
+
 Example:
+
+deadlock.txt
 
 2   //Number of processes
 
